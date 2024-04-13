@@ -1,2 +1,2 @@
-# Astra_Health
-Astra Health's Backend
+# Astra Health
+This repository powers the backend of Astra health
